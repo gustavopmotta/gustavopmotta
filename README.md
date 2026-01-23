@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading...)](https://git.io/typing-svg)
+
 # Olá, eu sou Gustavo Paim Motta! 👋
 ### Futuro Desenvolvedor Full Stack
 
@@ -16,7 +18,6 @@ Aluno de Engenharia de Software
 ### Estatísticas / Statistics
 [![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats/)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopmotta&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustavopmotta&theme=shadow-red&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
