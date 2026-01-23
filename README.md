@@ -21,8 +21,8 @@ Software Engineering Student
 ---
 
 ### Statistics
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopmotta&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats/)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopmotta&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats/)
 
 ---
 
