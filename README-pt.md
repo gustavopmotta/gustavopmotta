@@ -1,14 +1,14 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading..." alt="Typing SVG" /></a>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Sempre+aprendendo;Programando+algo+novo;console.log();Ola%2C+Mundo!;Estudando;Carregando..." alt="Typing SVG" /></a>
 </div>
 
-# Hi, i'm Gustavo Paim Motta!
-### Future Full Stack Dev
+# Olá, eu sou Gustavo Paim Motta!
+### Futuro Dev Full Stack
 
-Software Engineering Student 
+Estudante de Engenharia de Software
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkred?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4%3D&logoColor=red)](https://www.linkedin.com/in/gugapmotta/)
 [![Gmail](https://img.shields.io/badge/Gmail-darkred?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugapmotta@gmail.com)
-[![Português](https://img.shields.io/badge/TRADUZIR-darkred?style=for-the-badge&logo=immersivetranslate&logoColor=white)](./README-pt.md)
+[![English](https://img.shields.io/badge/TRANSLATE-darkred?style=for-the-badge&logo=immersivetranslate&logoColor=white)](./README-pt.md)
 
 ---
 
@@ -20,13 +20,13 @@ Software Engineering Student
 ![Godot](https://img.shields.io/badge/GDScript-darkred?style=for-the-badge&logo=godotengine&logoColor=white)
 ---
 
-### Statistics
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopmotta&theme=shadow_red&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
+### Estatísticas
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopmotta&theme=shadow_red&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats/)
 
 ---
 
-### My Contributions
+### Minhas contribuições
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopmotta/gustavopmotta/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopmotta/gustavopmotta/output/github-contribution-grid-snake.svg">
