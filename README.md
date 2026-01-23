@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading...)](https://git.io/typing-svg)
+<div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading...)](https://git.io/typing-svg)</div>
 
 # Olá, eu sou Gustavo Paim Motta! 👋
 ### Futuro Desenvolvedor Full Stack
