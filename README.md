@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading...;maybe making a game" alt="Typing SVG" /></a>
 
 # Hi, i'm Gustavo Paim Motta!
 ### Future Full Stack Dev
@@ -20,14 +20,5 @@ Software Engineering Student
 ---
 
 ### Statistics
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gustavopmotta&show_icons=true&theme=transparent)
-
----
-
-### My Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopmotta/gustavopmotta/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopmotta/gustavopmotta/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gustavopmotta/gustavopmotta/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+![Stats](https://github-stats-extended.vercel.app/api?username=gustavopmotta&show_icons=true&theme=shadow_red&hide_border=true&rank_icon=github&include_all_commits=true)
+![Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=gustavopmotta&show_icons=true&theme=shadow_red&hide_border=true)
