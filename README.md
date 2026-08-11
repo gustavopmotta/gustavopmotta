@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Tiny5&size=34&pause=1000&color=8B0000&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning;Coding+new+stuff;console.log();Hello%2C+World!;Studying;Loading...;maybe making a game" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tiny5&size=64&pause=1000&color=8B0000&center=true&vCenter=true&width=600&height=80&lines=Studying;Developing+a+game;%3AD)](https://git.io/typing-svg)
 
 # Hi, i'm Gustavo Paim Motta!
 ### Future Full Stack Dev
